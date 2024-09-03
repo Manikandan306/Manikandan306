@@ -1,13 +1,16 @@
 # Hi there, I'm Karna 👋
 
-Artificial Intelligence and Data Science Student
+Artificial Intelligence and Data Science Student.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🎓 I'm a Currently learning Back-end
+- 🎓 I'm a Currently learning Back-end.
 - 💻 I'm looking to collabrate on full stack web developement.
 - 🌟 I'm looking for internships with placement offers
 - 🌐 Interested in converting web applications to mobile applications.
-- ☁️ Ask me about Tech
+- ☁️ Ask me about Website
+- 🌟 All of my projects are available at  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikandan306?tab=repositories)
+
 - 📧 How to Reach me :
 <br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikandan.sec21@gmail.com)
 
