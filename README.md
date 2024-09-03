@@ -52,3 +52,5 @@ Artificial Intelligence and Data Science Student.
 ### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Manikandan?theme=dark&font=Marcellus&ext=contest)
 
+### GitHub Activity
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Manikandan306&theme=dark)
