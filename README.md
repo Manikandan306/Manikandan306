@@ -1,7 +1,9 @@
 # Hi there, I'm Karna 👋
 
-## About Me
-- 🎓 I'm a final year student studying **Artificial Intelligence and Data Science**.
+Artificial Intelligence and Data Science Student
+<img align "right" width="370" height="290" src="https://i.pinimg.com/orginals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+- 🎓 I'm a final year student studying ****.
 - 💻 Aspiring Web Developer with a passion for **Front-End** & **Back-End** development.
 - 🌟 AWS Academy graduate in **AWS Cloud Platform**.
 - 🌐 Interested in converting web applications to mobile applications.
