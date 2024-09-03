@@ -1,12 +1,16 @@
 # Hi there, I'm Karna 👋
 
 Artificial Intelligence and Data Science Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/48/4c/0e/484c0e57d0f0dc70b99a3f0fc49b2d26.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🎓 I'm a final year student studying ****.
-- 💻 Aspiring Web Developer with a passion for **Front-End** & **Back-End** development.
-- 🌟 AWS Academy graduate in **AWS Cloud Platform**.
+- 🎓 I'm a Currently learning Back-end
+- 💻 I'm looking to collabrate on full stack web developement.
+- 🌟 I'm looking for internships with placement offers
 - 🌐 Interested in converting web applications to mobile applications.
+- ☁️ Ask me about Tech
+- 📧 How to Reach me :
+<br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikandan.sec21@gmail.com)
+
 
 ## 🚀 Skills
 - **Languages:** Python, SQL, HTML, CSS
