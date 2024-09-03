@@ -27,14 +27,22 @@ Artificial Intelligence and Data Science Student.
 ![image](https://github.com/user-attachments/assets/10b2848d-94be-4498-abac-af2bf50a07a8)
 ![image](https://github.com/user-attachments/assets/3bad1a33-5e84-497d-8d5e-b070fc57a33f)
 
+### Most Used Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan306&layout=compact&theme=dark)
 
+## 🛠️ Tools & Technologies
 
+- ![image](https://github.com/user-attachments/assets/99c80640-761d-498e-b51c-31571ba0b809)
 
-## 🎉 Achievements
-- **Automated Drone Technology:** Presented at a national-level symposium.
-- **Technopedia 2022:** Participated in Paper Presentation and Masterminds events.
-- **Cyber Security Workshop:** Attended a workshop at E-C-E-N-T-R-A 2022.
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 📫 Contact Me
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
