@@ -1,7 +1,7 @@
 # Hi there, I'm Karna 👋
 
 Artificial Intelligence and Data Science Student
-<img align "right" width="370" height="290" src="https://i.pinimg.com/orginals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/orginals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 I'm a final year student studying ****.
 - 💻 Aspiring Web Developer with a passion for **Front-End** & **Back-End** development.
