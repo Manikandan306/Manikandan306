@@ -20,11 +20,18 @@ Artificial Intelligence and Data Science Student.
 [![Instagram Badge](https://github.com/user-attachments/assets/01fd6e71-d0bf-4a2a-a304-3991eea61ec2)](https://www.instagram.com/karna_editor_)
 
 
+## 🌐 Languages
+![image](https://github.com/user-attachments/assets/d1b32f4a-d587-4eaf-bb8c-013d16c1768a)
+![image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
+![image](https://github.com/user-attachments/assets/7a235492-aacc-4578-b822-b3ae6dce05cf)
+![image](https://github.com/user-attachments/assets/f966f5d6-9337-4ce6-bd4c-a0e621a4ae01)
+![image](https://github.com/user-attachments/assets/10b2848d-94be-4498-abac-af2bf50a07a8)
+![image](https://github.com/user-attachments/assets/3bad1a33-5e84-497d-8d5e-b070fc57a33f)
+![image](https://github.com/user-attachments/assets/6633162d-c383-4203-80a8-66bbcd4bb8ee)
 
-## 🛠 Projects
-- **[E-commerce Website](https://github.com/karna-ai/ecommerce-website):** Built during a full stack internship. A dynamic website with various features.
-- **[Fake News Detection](https://github.com/karna-ai/fake-news-detection):** A project to detect fake news using AI techniques.
-- **[Birthday Quiz Webpage](https://github.com/karna-ai/birthday-quiz):** A fun web app where friends can answer questions about me and get scores.
+
+
+
 
 ## 🎉 Achievements
 - **Automated Drone Technology:** Presented at a national-level symposium.
