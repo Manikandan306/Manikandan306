@@ -33,15 +33,16 @@ Artificial Intelligence and Data Science Student.
 
 ## 🛠️ Tools & Technologies
 
-- ![image](https://github.com/user-attachments/assets/99c80640-761d-498e-b51c-31571ba0b809)
+![image](https://github.com/user-attachments/assets/99c80640-761d-498e-b51c-31571ba0b809)
+![image](https://github.com/user-attachments/assets/d416c6b7-cd25-48f0-ad80-84261eeadef2)
+![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
+![image](https://github.com/user-attachments/assets/96c790c6-015a-4721-8019-f7d1a38e1469)
+![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
+![image](https://github.com/user-attachments/assets/738a9d38-d7d7-44c3-89ab-46c0e85fd64a)
+![image](https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b)
+![image](https://github.com/user-attachments/assets/1bc265bb-47ab-4cb0-b67c-253595737804)
 
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-- ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ## 📫 Contact Me
