@@ -44,7 +44,11 @@ Artificial Intelligence and Data Science Student.
 
 
 
+## 🛠️ Workspace Specs
 
-## 📫 Contact Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandan306&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Manikandan?theme=dark&font=Marcellus&ext=contest)
+
