@@ -50,7 +50,7 @@ Artificial Intelligence and Data Science Student.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandan306&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ### LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/manikandan306?theme=light&font=Orbitron)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manikandan306?theme=dark&font=Orbitron)
 
 ### GitHub Activity
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=Manikandan306&theme=dark)
