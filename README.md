@@ -15,10 +15,10 @@ Artificial Intelligence and Data Science Student.
 <br /> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikandan.sec21@gmail.com)
 
 
-## 🚀 Skills
-- **Languages:** Python, SQL, HTML, CSS
-- **Tools:** Visual Studio Code, Anaconda, MySQL Workbench
-- **Technologies:** Flask, Git, GitHub, AWS
+## 🔗 Connect with Me
+[![LinkedIn Badge](https://github.com/user-attachments/assets/2c077c22-a64e-4cbd-8558-3680edf20b4a)](https://www.linkedin.com/in/manikandan306)
+
+
 
 ## 🛠 Projects
 - **[E-commerce Website](https://github.com/karna-ai/ecommerce-website):** Built during a full stack internship. A dynamic website with various features.
