@@ -34,17 +34,14 @@ Artificial Intelligence and Data Science Student.
 ## 🛠️ Tools & Technologies
 
 ![image](https://github.com/user-attachments/assets/99c80640-761d-498e-b51c-31571ba0b809)
-![image](https://github.com/user-attachments/assets/d416c6b7-cd25-48f0-ad80-84261eeadef2)
 ![image](https://github.com/user-attachments/assets/e0f57202-61dd-4b3c-8fa0-4c315e9171f5)
 ![image](https://github.com/user-attachments/assets/96c790c6-015a-4721-8019-f7d1a38e1469)
 ![image](https://github.com/user-attachments/assets/bad93d4e-0606-4e6c-a5f6-2e2769c88d71)
 ![17309855267636408878694761204052](https://github.com/user-attachments/assets/e5f77a0b-76b9-469e-b0c9-d4b118588c40)
 ![image](https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b)
 ![image](https://github.com/user-attachments/assets/1bc265bb-47ab-4cb0-b67c-253595737804)
+![1730986242693131607990600564780](https://github.com/user-attachments/assets/a59a8f70-e27f-49ca-a145-4c98641f6461)
 ![17309861687176456553473062509543](https://github.com/user-attachments/assets/5b612af9-dc4a-43bb-948d-c8206d83ae34)
-
-
-
 
 ## 🛠️ Workspace Specs
 
