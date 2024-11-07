@@ -41,6 +41,8 @@ Artificial Intelligence and Data Science Student.
 ![17309855267636408878694761204052](https://github.com/user-attachments/assets/e5f77a0b-76b9-469e-b0c9-d4b118588c40)
 ![image](https://github.com/user-attachments/assets/26b09a4a-85f9-42b2-87c7-b5ec16da2f4b)
 ![image](https://github.com/user-attachments/assets/1bc265bb-47ab-4cb0-b67c-253595737804)
+![17309861687176456553473062509543](https://github.com/user-attachments/assets/5b612af9-dc4a-43bb-948d-c8206d83ae34)
+
 
 
 
