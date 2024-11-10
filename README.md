@@ -25,7 +25,7 @@ Artificial Intelligence and Data Science Student.
 ![image](https://github.com/user-attachments/assets/e9a228f4-ab44-43e7-8225-649a5e835528)
 ![image](https://github.com/user-attachments/assets/f966f5d6-9337-4ce6-bd4c-a0e621a4ae01)
 ![image](https://github.com/user-attachments/assets/10b2848d-94be-4498-abac-af2bf50a07a8)
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="94" height="94">
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript Logo" width="90" height="90">
 
 ### Most Used Languages
 
