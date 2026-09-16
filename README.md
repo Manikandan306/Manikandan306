@@ -3,11 +3,13 @@
 Artificial Intelligence and Data Science Student.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🎓 I'm a Currently learning Back-end.
-- 💻 I'm looking to collabrate on full stack web developement.
-- 🌟 I'm looking for internships with placement offers
-- 🌐 Interested in converting web applications to mobile applications.
-- ☁️ Ask me about Website
+- 🎓 Currently learning Python, AI & Data Engineering
+- 💻 Python Developer building web applications and data-driven solutions
+- 🌐 Freelance Web Developer — websites, portfolios, e-commerce & custom web apps
+- 🤖 Interested in AI, Data Engineering, GenAI and automation
+- 📱 Exploring ways to turn web applications into mobile applications
+- ☁️ Ask me about Python, Web Development, AI & Websites
+- 📩 Open to freelance projects and collaboration
 - 🌟 All of my projects are available at  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manikandan306?tab=repositories)
 
